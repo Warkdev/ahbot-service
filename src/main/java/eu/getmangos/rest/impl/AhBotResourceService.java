@@ -24,7 +24,7 @@ import eu.getmangos.mapper.AhBotPriceMapper;
 import eu.getmangos.rest.AhBotResource;
 
 @RequestScoped
-@Path("/v1")
+@Path("/ahbot/v1")
 @Tag(name = "ahbot")
 public class AhBotResourceService implements AhBotResource {
 
