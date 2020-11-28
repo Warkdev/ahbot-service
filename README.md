@@ -5,6 +5,8 @@ This project is educational, this is a Rest API based on [Mangos Character Datab
 - AH Bot history prices
 - AH Bot prices
 
+See the [Javadoc][2] for more information. Don't hesitate to raise an issue in the [tracker][3] if you notice any suspect behavior.
+
 # OpenAPI
 
 This project uses OpenAPI for documentation, you can consult the YML file describing the [API](src/main/resources/openapi.yml), this file can be imported in any OpenAPI compatible tool (such as Postman).
@@ -19,14 +21,14 @@ First of all, you need to have setup the authentication database and have it ava
 - mpConfig-1.4
 - mpOpenAPI-1.1
 
-This software is tested against [openliberty 20.0.0.11](https://openliberty.io/).
+This software is tested against [openliberty 20.0.0.12](https://openliberty.io/).
 
 # Configuring your webserver
 
 Start by making available, in your lib directory, your database JDBC driver. Once done, here's an example for an openliberty server.xml configuration which will setup this application on `/` on port 9081. It's also assuming that you're using MariaDB and that it's provided in the shared resources folder of the webserver.
 
 ```xml
-<server description="instanceService">
+<server description="ahbot-service">
     <featureManager>
         <feature>jaxrs-2.1</feature>
         <feature>jsonp-1.1</feature>
