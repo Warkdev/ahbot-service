@@ -1,7 +1,5 @@
 # ahbot-service [![Build status](https://travis-ci.com/Warkdev/ahbot-service.svg?branch=main)][1] [![Coverage Status](https://coveralls.io/repos/github/Warkdev/ahbot-service/badge.svg?branch=main)][4] [![Codebeat badge](https://codebeat.co/badges/5ccfd060-8d57-4a51-9c6b-2688482f857e)][5] [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-
 This project is educational, this is a Rest API based on [Mangos Character Database](https://github.com/mangoszero/database), it provides access to the database through web calls and allows to manage Mangos AH Bot data for a given realm:
 - AH Bot
 - AH Bot history prices
