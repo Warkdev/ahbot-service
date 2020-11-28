@@ -1,4 +1,4 @@
-# account-service [![Build status](https://travis-ci.com/Warkdev/account-service.svg?branch=main)][1] [![Coverage Status](https://coveralls.io/repos/github/Warkdev/account-service/badge.svg?branch=main)][4] [![Codebeat badge](https://codebeat.co/badges/5ccfd060-8d57-4a51-9c6b-2688482f857e)][5] [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+# ahbot-service [![Build status](https://travis-ci.com/Warkdev/ahbot-service.svg?branch=main)][1] [![Coverage Status](https://coveralls.io/repos/github/Warkdev/ahbot-service/badge.svg?branch=main)][4] [![Codebeat badge](https://codebeat.co/badges/5ccfd060-8d57-4a51-9c6b-2688482f857e)][5] [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
