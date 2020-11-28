@@ -1,4 +1,4 @@
-# instance-service
+# account-service [![Build status](https://travis-ci.com/Warkdev/account-service.svg?branch=main)][1] [![Coverage Status](https://coveralls.io/repos/github/Warkdev/account-service/badge.svg?branch=main)][4] [![Codebeat badge](https://codebeat.co/badges/5ccfd060-8d57-4a51-9c6b-2688482f857e)][5] [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
@@ -65,3 +65,9 @@ Voilà ! You're all set, now you can happily use this API to interact with the d
 # Docker
 
 You can also user the provided Dockerfile as example to create your own applicative image containing this service !
+
+[1]: https://travis-ci.com/Warkdev/ahbot-service "Travis CI · AH Bot Service build status"
+[2]: https://warkdev.github.io/ahbot-service/apidocs/ "AH Bot Service javadoc"
+[3]: https://github.com/Warkdev/ahbot-service/issues/ "AH Bot Service Issues"
+[4]: https://coveralls.io/github/Warkdev/ahbot-service?branch=main "AH Bot Service Coverage status"
+[5]: https://codebeat.co/projects/github-com-warkdev-ahbot-service-main "AH Bot Service Codebeat status"
