@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"eu.getmangos.cdi"},{"l":"eu.getmangos.controllers"},{"l":"eu.getmangos.dto"},{"l":"eu.getmangos.entities"},{"l":"eu.getmangos.mapper"},{"l":"eu.getmangos.rest"},{"l":"eu.getmangos.rest.impl"},{"l":"eu.getmangos.utils"}]
