@@ -7,7 +7,7 @@ jdk:
 install: True
 before_script:
   - sudo mysql --user root < /home/travis/build/Warkdev/ahbot-service/scripts/database/structure.sql
-  - sudo mysql --user root auth < /home/travis/build/Warkdev/ahbot-service/scripts/database/data.sql
+  - sudo mysql --user root char < /home/travis/build/Warkdev/ahbot-service/scripts/database/data.sql
   - unset _JAVA_OPTIONS
   - chmod +x scripts/travisTest.sh
   - mv scripts/liberty src/main
